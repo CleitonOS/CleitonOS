@@ -1,7 +1,7 @@
 
 <div>
   <h1 align="center">Olá, me chamo Cleiton 👋</h1>  
-  <img align="right" alt="Bem vindo!" width="200" height="200" src="https://tenor.com/pt-BR/view/your-welcome-gif-23991412"> 
+  <img align="right" alt="Bem vindo!" width="200" height="200" src="[https://tenor.com/pt-BR/view/your-welcome-gif-23991412](https://tenor.com/view/your-welcome-gif-23991412)"> 
 </div>
 
 <h3 align="center">Seja bem vindo(a) ao meu Github!<br>Não repara a bagunça😄</h3>
