@@ -7,6 +7,7 @@
 Sou um Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ONE Next Education parceria entre a Oracle e Alura, onde pude desenvolver minhas habilidades como desenvolvedor com Foco em HTML, CSS e JavaScript, junto a aplicação do conhecimento em projetos práticos. Atualmente estou cursando uma formação em React da ONE e também participando do curso da AWS Re/Start de Computação em Nuvem. Empenhado em desenvolver meu conhecimento, colaborar no desenvolvimento das pessoas e projetos.
 
 ##
+<h3>My stats</h3>
 <div>
 <a href="https://github.com/CleitonOS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonOS&layout=compact&langs_count=7&theme=dracula"/>
