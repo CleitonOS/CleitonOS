@@ -1,7 +1,7 @@
 
 <div>
   <h1 align="center">Olá, me chamo Cleiton 👋</h1>  
-  <img align="right" alt="Bem vindo!" width="200" height="200" href="![your-welcome](https://user-images.githubusercontent.com/107083529/235210627-3b738fc2-c465-47eb-95a9-3751f9b634cd.gif)
+  <img align="right" alt="Bem vindo!" width="200" height="200" src="https://user-images.githubusercontent.com/107083529/235210627-3b738fc2-c465-47eb-95a9-3751f9b634cd.gif
 "> 
 </div>
 
