@@ -1,5 +1,5 @@
-<h1 align="center">Olá, me chamo Cleiton 👋<h1>
-##Não repara na bagunça não😄
+<h1 align="center">Olá, me chamo Cleiton 👋</h1>
+<h2>Não repara a bagunça😄</h2>
 
 <!--
 **CleitonOS/CleitonOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
