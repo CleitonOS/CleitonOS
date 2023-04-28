@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá, me chamo Cleiton 👋</h1>
-<div class="tenor-gif-embed" data-postid="23991412" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/your-welcome-gif-23991412">Your Welcome GIF</a>from <a href="https://tenor.com/search/your+welcome-gifs">Your Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/your-welcome-gif-23991412">Your Welcome GIF</a>from <a href="https://tenor.com/search/your+welcome-gifs">Your Welcome GIFs</a>
 
 <h3 align="center">Seja bem vindo(a) ao meu Github!<br>Não repara a bagunça😄</h3>
 
