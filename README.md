@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, me chamo Cleiton 👋<br>Não repara a bagunça😄</h1>
+<h1 align="center">Olá, me chamo Cleiton 👋</h1>
 
 <h2 align="center">Seja bem vindo(a) ao meu Github!<br>Não repara a bagunça😄</h2>
 
