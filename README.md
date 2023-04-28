@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Cleiton 👋</h1>  
+<h1 align="center">Olá, eu sou o Cleiton 👋</h1>  
 
 <h3 align="center">Seja bem vindo(a) ao meu Github!<br>Não repara a bagunça😄</h3>
 <img align="right" alt="Seja bem vindo!" width="200" height="200" src="https://media.tenor.com/b4ma74q0qL8AAAAC/your-welcome.gif">
