@@ -4,7 +4,7 @@
 <img align="right" alt="Seja bem vindo!" width="200" height="200" src="https://media.tenor.com/b4ma74q0qL8AAAAC/your-welcome.gif">
 
 <h3>Sobre min:</h3>
-Sou Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ONE Next Education parceria entre a Oracle e Alura, onde pude desenvolver minhas habilidades como desenvolvedor com Foco em HTML, CSS e JavaScript, junto a aplicação do conhecimento em projetos práticos. Atualmente estou cursando uma formação em React da ONE e também participando do curso da AWS Re/Start de Computação em Nuvem. Empenhado em desenvolver meu conhecimento, colaborar no desenvolvimento das pessoas e projetos.
+Sou Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ONE Next Education parceria entre a Oracle e Alura, onde pude desenvolver minhas habilidades como desenvolvedor com Foco em HTML, CSS e JavaScript, junto a aplicação do conhecimento em projetos práticos. Atualmente estou cursando uma formação em React da ONE e também participando do curso da AWS Re/Start de Computação em Nuvem. Estou empenhado em desenvolver ainda mais meu conhecimento, colaborar no desenvolvimento de pessoas e projetos.
 
 ##
 <h3>Meus status</h3>
