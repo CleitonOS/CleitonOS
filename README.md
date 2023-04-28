@@ -21,7 +21,7 @@ Sou um Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 </div>
 
-## Contatos:
+<h3 align="left">Contatos:</h3>
 
 <div>
 <a href="https://instagram.com/cleitonrn7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
