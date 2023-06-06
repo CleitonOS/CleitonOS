@@ -26,7 +26,8 @@ Sou Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ON
 <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/> 
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
-<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/>
+<img align = "center" src="https://i.imgur.com/z1pLC5E.jpeg" alt="aws" width="50" height="50"/>
 </div>
 
 <h3 align="left">Contatos:</h3>
