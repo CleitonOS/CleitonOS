@@ -27,7 +27,7 @@ Sou Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ON
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/>
-<img align = "center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50"/>
+<img align = "center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/>
 </div>
 
 <h3 align="left">Contatos:</h3>
