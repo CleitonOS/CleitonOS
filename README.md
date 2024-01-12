@@ -3,8 +3,10 @@
 <h3 align="center">Seja bem vindo(a) ao meu Github!<br>Não repara a bagunça😄</h3>
 <img align="right" alt="Seja bem vindo!" width="200" height="200" src="https://media.tenor.com/b4ma74q0qL8AAAAC/your-welcome.gif">
 
-<h3>Sobre min:</h3>
-Sou Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ONE Next Education parceria entre a Oracle e Alura, onde pude desenvolver minhas habilidades como desenvolvedor em HTML, CSS e JavaScript, além disso fiz uma especialização em React.js utilizando suas principais bibliotecas, tudo isso junto a aplicação do conhecimento em projetos práticos. Atualmente estou praticando meu conhecimento em pequenos projetos e estudando cursos relacionados a Python, MySQL e junto a isso me graduei também recentemente no curso da AWS Re/Start com foco nos conceitos básicos de Cloud, infraestrutura, ciência de dados, segurança, e pouco tempo depois fiz a prova para tirar minha certificação Cloud Practitioner onde obtive êxito em tirar o certificado AWS. Estou empenhado em ampliar ainda mais meu conhecimento, colaborando no desenvolvimento de pessoas e projetos de forma significativa.
+<h3>Sobre min:</h3> 
+<p>Sou um Desenvolvedor de Software, com foco em DevOps, mas já tive uma breve experiência com Front-End. Falando um pouco sobre minhas experiências, uma dessas primeiras experiências que tive, foi um Bootcamp de Front-End da ONE Next Education parceria entre a Oracle e Alura, onde pude desenvolver minhas habilidades como desenvolvedor em HTML, CSS e JavaScript, além disso fiz uma especialização em React.js utilizando suas principais bibliotecas, tudo isso junto a aplicação do conhecimento em projetos práticos. 
+</p>
+<p>Atualmente estou praticando meu conhecimento em pequenos projetos e estudando cursos relacionados a DevOps, Cloud e suas certificações, junto a isso me graduei também recentemente no curso da AWS Re/Start com foco nos conceitos básicos de Cloud, infraestrutura, ciência de dados, segurança, e em seguida, pós o término do programa, fiz a prova para tirar minha certificação Cloud Practitioner onde obtive êxito em tirar o certificado AWS. No momento, estou empenhado em ampliar ainda mais meu conhecimento, colaborando no desenvolvimento de pessoas e projetos de forma significativa.</p>
 
 ##
 <h3>Meus status</h3>
@@ -23,11 +25,16 @@ Sou Desenvolvedor Front-End, conclui recentemente uma Formação Front-End da ON
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
 <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
 <img align = "center" src="https://i.imgur.com/eKV8V75.png  alt="python" width="40" height="40"/>
-<img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/> 
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/>
 <img align = "center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/>
+<img align = "center" src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="50" height="50"/>
+<img align = "center" src="https://www.svgrepo.com/show/354926/docker.svg" alt="docker" width="50" height="50"/>
+<img align = "center" src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="45" height="45"/>
+<img align = "center" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="gitlab" width="45" height="45"/>
+<img align = "center" src="https://www.svgrepo.com/show/373429/ansible.svg" alt="ansible" width="45" height="45"/>
+<img align = "center" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="45" height="45"/>
 </div>
 
 <h3 align="left">Contatos:</h3>
